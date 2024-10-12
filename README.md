@@ -1,6 +1,6 @@
-# Online Continual Learning
+# Official implementation of "Learning Equi-angular Representations for Online Continual Learning" (CVPR 2024)
 
-## Requirements Install
+## Prerequisite
 ```bash
 pip install -r requirements.txt
 ```
